@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Cameron Woodard and I am a front-end developer that also does some freelance work. I am a senior at SIUE (Southern Illinois University Edwardsville) studying computer science. I believe that technology should be used to enhance and improve our lives but not in a way that benefits companies more than us. I focus on design that improves user experience while practicing ideas that keep the tech just as a tool. If you want to see some of my work look around my github or check out my portfolio at https://Cwoodard2.github.io!
+I am Cameron Woodard and I am a front-end developer that also does some freelance work. I am a senior at SIUE (Southern Illinois University Edwardsville) studying computer science. I believe that technology should be used to enhance and improve our lives but not in a way that benefits companies more than us. I focus on design that improves user experience while practicing ideas that keep the tech just as a tool. If you want to see some of my work look around my github or check out my portfolio at https://www.cameron-woodard.com!
 
 <!--
 **Cwoodard2/Cwoodard2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
